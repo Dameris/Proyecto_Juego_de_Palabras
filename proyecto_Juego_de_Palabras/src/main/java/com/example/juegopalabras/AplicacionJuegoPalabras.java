@@ -1,0 +1,11 @@
+package com.example.juegopalabras;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class AplicacionJuegoPalabras {
+    public static void main(String[] args) {
+        SpringApplication.run(AplicacionJuegoPalabras.class, args);
+    }
+}
